@@ -1,0 +1,8 @@
+name: Water
+version: '${project.version}'
+main: me.macialowskyyy.water.main.Main
+api-version: 1.17
+authors: [ Macialowskyyy ]
+description: Water
+softdepend:
+  - PlaceholderAPI

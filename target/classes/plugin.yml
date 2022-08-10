@@ -1,0 +1,8 @@
+name: PoisonWater
+version: '1.0-SNAPSHOT'
+main: xyz.poisoncraft.poisonwater.main.Main
+api-version: 1.17
+authors: [ Macialowskyyy ]
+description: Water
+softdepend:
+  - PlaceholderAPI
